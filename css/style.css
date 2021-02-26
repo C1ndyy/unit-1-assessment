@@ -7,8 +7,6 @@ body {
     
 }
 
-
-
 #counter {
     font-size: 60px;
     font-family:Arial, Helvetica, sans-serif;
@@ -19,7 +17,6 @@ body {
     display: flex;
     align-items: center;;
 }
-
 
 button {
     height: 63px;
@@ -36,9 +33,6 @@ button:hover {
     background-color: white;
     color: rgb(175, 174, 174);
 }
-
-
-
 
 input {
     height: 54px;

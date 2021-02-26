@@ -1,8 +1,6 @@
 //----------------state variables-----------------//
 let count = 0;
 
-
-
 //----------------cached variables-----------------//
 let addButton = document.getElementById("add");
 let subtractButton = document.getElementById("subtract");
@@ -27,7 +25,6 @@ function render(){
     }
     else counter.style.color="black"
 }
-
 
 //----------------event listeners-----------------//
 addButton.addEventListener("click", function(e){
